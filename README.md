@@ -1,2 +1,3 @@
 # CS-465
-full stack development
+**CS 465: Full stack development**
+**The branches show incremental progress throughout the project**
