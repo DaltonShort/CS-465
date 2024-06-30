@@ -1,6 +1,6 @@
 # Journal assignment and Project Refelction
 
-### Architecture
+## Architecture
 
 **Frontend Development Comparison**
 
@@ -12,7 +12,7 @@
 
 - Chose MongoDB for flexibility with unstructured data and scalability, ideal for evolving schema needs.
 
-### Functionality
+## Functionality
 
 **JSON and Frontend-Backend Integration**
 
@@ -24,14 +24,14 @@
 - Improved efficiency by refactoring codebase, focusing on reusable UI components.
 - Benefits include reduced duplication, easier maintenance, and accelerated feature development.
 
-### Testing
+## Testing
 
 **API Testing and Security**
 
 - **API Testing**: Ensured functionality of endpoints (GET, POST, etc.) under various conditions.
 - Addressed security layers like authentication and data validation to prevent vulnerabilities.
 
-### Reflection
+## Reflection
 
 **Professional Growth**
 
